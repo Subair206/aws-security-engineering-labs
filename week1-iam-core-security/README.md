@@ -61,20 +61,18 @@ The security-analyst account was granted only the permissions required to view r
 
 ## Authorization Testing
 
-The security-analyst account was tested against administrative actions to validate least privilege controls.
-
 ### Create S3 Bucket (Denied)
 
-![Create S3 Bucket Denied](screenshots/access-denied-create-s3-bucket.png)
+![Create S3 Bucket Denied](access-denied-create-s3-bucket.png)
 
 ### Launch EC2 Instance (Denied)
 
-![Launch EC2 Denied](screenshots/access-denied-launch-ec2.png)
+![Launch EC2 Denied](access-denied-launch-ec2.png)
 
 ### Create IAM User (Denied)
 
-![Create IAM User Denied](screenshots/access-denied-create-iam-user.png)
+![Create IAM User Denied](access-denied-create-iam-user.png)
 
 ### Delete IAM User (Denied)
 
-![Delete IAM User Denied](screenshots/access-denied-delete-iam-user.png)
+![Delete IAM User Denied](access-denied-delete-iam-user.png)reenshots/access-denied-delete-iam-user.png)

@@ -79,3 +79,9 @@ The security-analyst account was tested against administrative actions to valida
 
 ![Delete IAM User Denied](screenshots/access-denied-delete-iam-user.png)
 ![Delete IAM User Denied](access-denied-delete-iam-user.png)reenshots/access-denied-delete-iam-user.png)
+
+## IAM Role
+
+### SecurityAdminRole
+
+![SecurityAdminRole](screenshots/security-admin-role.png)
